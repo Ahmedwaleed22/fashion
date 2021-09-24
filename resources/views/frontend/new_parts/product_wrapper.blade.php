@@ -1,5 +1,4 @@
 <div class="product-wrapper">
-
                                 <a class="product-inner " href="product/{{ $product->slug }}"
                                    aria-label="1 Day Acuvue Moist (30&nbsp;lenses)">
 
