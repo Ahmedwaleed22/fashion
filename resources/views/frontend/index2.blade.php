@@ -32,7 +32,7 @@
     <meta name="theme-color" content="#ffffff">
 
 
-    <link rel="manifest" href="https://www.alensa.ae/manifest.json">
+    <link rel="manifest" href="localhost/logoname/manifest.json">
 
 
     <!--
@@ -59,16 +59,16 @@
 <link rel="alternate" href="https://www.alensa.pl" hreflang="pl" />
 -->
 
-    <link rel="preload" href="https://www.alensa.ae/globalfiles/templates/alensa/responsive/fonts/icomoon.ttf?2im9ur"
+    <link rel="preload" href="localhost/logoname/globalfiles/templates/alensa/responsive/fonts/icomoon.ttf?2im9ur"
           as="font" type="font/ttf" crossorigin="">
     <link rel="preload"
-          href="https://www.alensa.ae/globalfiles/templates/alensa/responsive/fonts/roboto-regular-webfont.woff"
+          href="localhost/logoname/globalfiles/templates/alensa/responsive/fonts/roboto-regular-webfont.woff"
           as="font" type="font/woff" crossorigin="">
     <link rel="preload"
-          href="https://www.alensa.ae/globalfiles/templates/alensa/responsive/fonts/roboto-medium-webfont.woff"
+          href="localhost/logoname/globalfiles/templates/alensa/responsive/fonts/roboto-medium-webfont.woff"
           as="font" type="font/woff" crossorigin="">
     <link rel="preload"
-          href="https://www.alensa.ae/globalfiles/templates/alensa/responsive/fonts/roboto-bold-webfont.woff" as="font"
+          href="localhost/logoname/globalfiles/templates/alensa/responsive/fonts/roboto-bold-webfont.woff" as="font"
           type="font/woff" crossorigin="">
 
 
@@ -98,8 +98,8 @@
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	"name": "Alensa s.r.o.",
-	"url": "https://www.alensa.ae",
-	"logo": "https://www.alensa.ae/globalfiles/logos/alensa.svg",
+	"url": "localhost/logoname",
+	"logo": "localhost/logoname/globalfiles/logos/alensa.svg",
 
 	"contactPoint": {
 		"@type": "ContactPoint",
@@ -131,10 +131,10 @@
 {
 	"@context": "https://schema.org",
 	"@type": "WebSite",
-	"url": "https://www.alensa.ae",
+	"url": "localhost/logoname",
 	"potentialAction": [{
 		"@type": "SearchAction",
-		"target": "https://www.alensa.ae/search?phrase={search_term_string}",
+		"target": "localhost/logoname/search?phrase={search_term_string}",
 		"query-input": "required name=search_term_string"
 	}]
 }
@@ -1356,7 +1356,7 @@
             <div class="header-grid ">
 
                 <div class="header-logo-area">
-                    <a href="https://www.alensa.ae/" class="header-logo ">
+                    <a href="localhost/logoname/" class="header-logo ">
                         <img src="./public/uploads/new/alensa.svg" alt="Alensa logo"
                              style="width: 170px; height: 44px;">
 
@@ -1384,32 +1384,32 @@
 
                                         <a class="customer-login-link customer-link show-modal-login">Log in</a>
 
-                                        <a href="https://www.alensa.ae/customer/register/?backlink=220a"
+                                        <a href="localhost/logoname/customer/register/?backlink=220a"
                                            class="customer-register-link customer-link">Registration</a>
                                     </div>
                                 </div>
 
                             </div>
                             <ul class="main-menu-ul">
-                                <li class="main-menu-item"><a href="https://www.alensa.ae/contact-lenses.html">Contact
+                                <li class="main-menu-item"><a href="localhost/logoname/contact-lenses.html">Contact
                                     lenses</a>
                                     <div class="sub-menu sub-menu--lenses">
                                         <div class="sub-menu-section sub-menu-section--lenses"><span
                                                 class="sub-menu-section-header">Types of lenses</span>
                                             <ul>
-                                                <li><a href="https://www.alensa.ae/daily-contact-lenses.html">Daily
+                                                <li><a href="localhost/logoname/daily-contact-lenses.html">Daily
                                                     lenses</a></li>
-                                                <li><a href="https://www.alensa.ae/bi-weekly-contact-lenses.html">Bi-weekly
+                                                <li><a href="localhost/logoname/bi-weekly-contact-lenses.html">Bi-weekly
                                                     lenses</a></li>
-                                                <li><a href="https://www.alensa.ae/monthly-contact-lenses.html">Monthly
+                                                <li><a href="localhost/logoname/monthly-contact-lenses.html">Monthly
                                                     lenses</a></li>
-                                                <li><a href="https://www.alensa.ae/toric-contact-lenses.html">Toric
+                                                <li><a href="localhost/logoname/toric-contact-lenses.html">Toric
                                                     lenses</a></li>
-                                                <li><a href="https://www.alensa.ae/multifocal-contact-lenses.html">Multifocal
+                                                <li><a href="localhost/logoname/multifocal-contact-lenses.html">Multifocal
                                                     lenses</a></li>
-                                                <li><a href="https://www.alensa.ae/colour-contact-lenses.html">Coloured
+                                                <li><a href="localhost/logoname/colour-contact-lenses.html">Coloured
                                                     lenses</a></li>
-                                                <li><a href="https://www.alensa.ae/contact-lens-economy-packs.html">Economy
+                                                <li><a href="localhost/logoname/contact-lens-economy-packs.html">Economy
                                                     packs</a></li>
                                             </ul>
                                         </div>
@@ -1417,22 +1417,22 @@
                                                 class="sub-menu-section-header">Top brands</span>
                                             <ul>
                                                 <li class="acuvue"><a
-                                                        href="https://www.alensa.ae/acuvue.html">Acuvue</a></li>
-                                                <li class="air-optix"><a href="https://www.alensa.ae/air-optix.html">Air
+                                                        href="localhost/logoname/acuvue.html">Acuvue</a></li>
+                                                <li class="air-optix"><a href="localhost/logoname/air-optix.html">Air
                                                     Optix</a></li>
-                                                <li class="biofinity"><a href="https://www.alensa.ae/biofinity.html">Biofinity</a>
+                                                <li class="biofinity"><a href="localhost/logoname/biofinity.html">Biofinity</a>
                                                 </li>
                                                 <li class="dailies"><a
-                                                        href="https://www.alensa.ae/dailies.html">Dailies</a></li>
-                                                <li class="freshlook"><a href="https://www.alensa.ae/freshlook.html">FreshLook</a>
+                                                        href="localhost/logoname/dailies.html">Dailies</a></li>
+                                                <li class="freshlook"><a href="localhost/logoname/freshlook.html">FreshLook</a>
                                                 </li>
-                                                <li class="proclear"><a href="https://www.alensa.ae/proclear.html">Proclear</a>
+                                                <li class="proclear"><a href="localhost/logoname/proclear.html">Proclear</a>
                                                 </li>
-                                                <li class="purevision"><a href="https://www.alensa.ae/purevision.html">PureVision</a>
+                                                <li class="purevision"><a href="localhost/logoname/purevision.html">PureVision</a>
                                                 </li>
                                                 <li class="soflens"><a
-                                                        href="https://www.alensa.ae/soflens.html">SofLens</a></li>
-                                                <li class="topvue"><a href="https://www.alensa.ae/topvue-brand.html">TopVue</a>
+                                                        href="localhost/logoname/soflens.html">SofLens</a></li>
+                                                <li class="topvue"><a href="localhost/logoname/topvue-brand.html">TopVue</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -1440,73 +1440,73 @@
                                                 class="sub-menu-section-header">Producers</span>
                                             <ul>
                                                 <li class="johnson"><a
-                                                        href="https://www.alensa.ae/johnson-and-johnson-contact-lenses.html">Johnson
+                                                        href="localhost/logoname/johnson-and-johnson-contact-lenses.html">Johnson
                                                     and Johnson</a></li>
-                                                <li class="cooper"><a href="https://www.alensa.ae/cooper-vision.html">CooperVision</a>
+                                                <li class="cooper"><a href="localhost/logoname/cooper-vision.html">CooperVision</a>
                                                 </li>
-                                                <li class="bausch"><a href="https://www.alensa.ae/bausch-and-lomb.html">Bausch
+                                                <li class="bausch"><a href="localhost/logoname/bausch-and-lomb.html">Bausch
                                                     and Lomb</a></li>
-                                                <li class="topvue"><a href="https://www.alensa.ae/topvue-brand.html">TopVue</a>
+                                                <li class="topvue"><a href="localhost/logoname/topvue-brand.html">TopVue</a>
                                                 </li>
-                                                <li class="alcon"><a href="https://www.alensa.ae/alcon.html">Alcon</a>
+                                                <li class="alcon"><a href="localhost/logoname/alcon.html">Alcon</a>
                                                 </li>
-                                                <li class="clearlab"><a href="https://www.alensa.ae/clear-lab.html">Clearlab</a>
+                                                <li class="clearlab"><a href="localhost/logoname/clear-lab.html">Clearlab</a>
                                                 </li>
-                                                <li class="maxvue"><a href="https://www.alensa.ae/maxvue-vision.html">Maxvue
+                                                <li class="maxvue"><a href="localhost/logoname/maxvue-vision.html">Maxvue
                                                     Vision</a></li>
                                             </ul>
                                         </div>
                                     </div>
                                 </li>
-                                <li class="main-menu-item"><a href="https://www.alensa.ae/solutions.html">Lens
+                                <li class="main-menu-item"><a href="localhost/logoname/solutions.html">Lens
                                     solutions</a>
                                     <div class="sub-menu sub-menu--packages">
                                         <div class="sub-menu-section sub-menu-section--solutions"><a
-                                                href="https://www.alensa.ae/solutions.html">Contact lens solutions</a>
+                                                href="localhost/logoname/solutions.html">Contact lens solutions</a>
                                         </div>
                                         <div class="sub-menu-section sub-menu-section--multipacks"><a
-                                                href="https://www.alensa.ae/solution-economy-packs.html">Multipacks of
+                                                href="localhost/logoname/solution-economy-packs.html">Multipacks of
                                             solutions</a></div>
                                         <div class="sub-menu-section sub-menu-section--gelone"><a
-                                                href="https://www.alensa.ae/lenses-and-solutions.html">Solutions +
+                                                href="localhost/logoname/lenses-and-solutions.html">Solutions +
                                             contact lenses</a></div>
                                     </div>
                                 </li>
-                                <li class="main-menu-item"><a href="https://www.alensa.ae/supplementary-eye-care.html">Supplementary
+                                <li class="main-menu-item"><a href="localhost/logoname/supplementary-eye-care.html">Supplementary
                                     eye care</a>
                                     <div class="sub-menu sub-menu--packages">
                                         <div class="sub-menu-section sub-menu-section--eye-drops"><a
-                                                href="https://www.alensa.ae/eye-drops-and-eye-sprays.html">Eye drops
+                                                href="localhost/logoname/eye-drops-and-eye-sprays.html">Eye drops
                                             &amp; eye
                                             sprays</a></div>
                                         <div class="sub-menu-section sub-menu-section--accessories-lenses"><a
-                                                href="https://www.alensa.ae/accessories-for-contact-lenses.html">Accessories
+                                                href="localhost/logoname/accessories-for-contact-lenses.html">Accessories
                                             for contact lenses</a>
                                         </div>
                                         <div class="sub-menu-section sub-menu-section--accessories-gifts"><a
-                                                href="https://www.alensa.ae/other-accessories-and-gifts.html">Other
+                                                href="localhost/logoname/other-accessories-and-gifts.html">Other
                                             accessories and gifts</a></div>
                                     </div>
                                 </li><!-- GLASSES -->
-                                <li class="main-menu-item"><a href="https://www.alensa.ae/frames.html">Glasses</a>
+                                <li class="main-menu-item"><a href="localhost/logoname/frames.html">Glasses</a>
                                     <div class="sub-menu sub-menu--glasses">
                                         <div class="left-side">
-                                            <div class="left-side-boxes"><a href="https://www.alensa.ae/frames/man">
+                                            <div class="left-side-boxes"><a href="localhost/logoname/frames/man">
                                                 <div class="cat-box first frames"><h4
                                                         class="sun-menu-headline sun-menu-green">for
                                                     him</h4>
                                                     <h3 class="sun-menu-headline">Glasses</h3></div>
-                                            </a> <a href="https://www.alensa.ae/frames/woman">
+                                            </a> <a href="localhost/logoname/frames/woman">
                                                 <div class="cat-box second frames"><h4
                                                         class="sun-menu-headline sun-menu-red">for her</h4>
                                                     <h3 class="sun-menu-headline">Glasses</h3></div>
                                             </a></div>
                                             <div class="right-side-boxes"><a
-                                                    href="https://www.alensa.ae/eyeglasses-clearance.html">
+                                                    href="localhost/logoname/eyeglasses-clearance.html">
                                                 <div class="cat-box third frames"><h3 class="sun-menu-headline">
                                                     Clearance</h3>
                                                 </div>
-                                            </a> <a href="https://www.alensa.ae/frames/kids">
+                                            </a> <a href="localhost/logoname/frames/kids">
                                                 <div class="cat-box four frames"><h3 class="sun-menu-headline">Glasses
                                                     for kids</h3></div>
                                             </a></div>
@@ -1516,70 +1516,70 @@
 glasses</span>
                                                 <ul>
                                                     <li class="sport-type muscle"><a
-                                                            href="https://www.alensa.ae/street-fashion-glasses-and-frames.html">Street
+                                                            href="localhost/logoname/street-fashion-glasses-and-frames.html">Street
                                                         fashion</a></li>
                                                     <li class="sport-type sunglasses-design"><a
-                                                            href="https://www.alensa.ae/designer-glasses-and-frames.html">Designer
+                                                            href="localhost/logoname/designer-glasses-and-frames.html">Designer
                                                         sunglasses</a></li>
                                                     <li class="sport-type street-fashion"><a
-                                                            href="https://www.alensa.ae/luxury-glasses-and-frames.html">Luxury
+                                                            href="localhost/logoname/luxury-glasses-and-frames.html">Luxury
                                                         brands</a></li>
                                                     <li class="sport-type with-clips"><a
-                                                            href="https://www.alensa.ae/glasses-with-clip-on-sunglasses.html">Clip-on</a>
+                                                            href="localhost/logoname/glasses-with-clip-on-sunglasses.html">Clip-on</a>
                                                     </li>
                                                     <li class="sport-type metals"><a
-                                                            href="https://www.alensa.ae/frames/gmm-metal">Metal</a></li>
+                                                            href="localhost/logoname/frames/gmm-metal">Metal</a></li>
                                                     <li class="sport-type plastic"><a
-                                                            href="https://www.alensa.ae/frames/gmm-plastic">Plastic</a>
+                                                            href="localhost/logoname/frames/gmm-plastic">Plastic</a>
                                                     </li>
                                                     <li class="sport-type outlet"><a
-                                                            href="https://www.alensa.ae/eyeglasses-clearance.html">Clearance</a>
+                                                            href="localhost/logoname/eyeglasses-clearance.html">Clearance</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div class="right-collums"><span class="title">Shape</span>
                                                 <ul>
                                                     <li class="shape square-dio"><a
-                                                            href="https://www.alensa.ae/frames/gs-square">Square</a>
+                                                            href="localhost/logoname/frames/gs-square">Square</a>
                                                     </li>
                                                     <li class="shape rectangular-dio"><a
-                                                            href="https://www.alensa.ae/frames/rectangular">Rectangular</a>
+                                                            href="localhost/logoname/frames/rectangular">Rectangular</a>
                                                     </li>
                                                     <li class="shape pilot-dio"><a
-                                                            href="https://www.alensa.ae/frames/pilot">Pilot</a></li>
+                                                            href="localhost/logoname/frames/pilot">Pilot</a></li>
                                                     <li class="shape round-dio"><a
-                                                            href="https://www.alensa.ae/frames/gs-round">Round</a></li>
+                                                            href="localhost/logoname/frames/gs-round">Round</a></li>
                                                     <li class="shape panthos-dio"><a
-                                                            href="https://www.alensa.ae/frames/panthos-tea-cup">Panthos</a>
+                                                            href="localhost/logoname/frames/panthos-tea-cup">Panthos</a>
                                                     </li>
                                                     <li class="shape oval-dio"><a
-                                                            href="https://www.alensa.ae/frames/oval-elipse">Oval /
+                                                            href="localhost/logoname/frames/oval-elipse">Oval /
                                                         Ellipse</a></li>
                                                     <li class="shape cateye-dio"><a
-                                                            href="https://www.alensa.ae/frames/cat-eye">Cat eye</a></li>
+                                                            href="localhost/logoname/frames/cat-eye">Cat eye</a></li>
                                                 </ul>
                                             </div>
                                             <div class="right-collums"><span class="title">Manufacturer</span>
                                                 <ul class="logos-sunglass-ul">
                                                     <li class="logo crulle"><a
-                                                            href="https://www.alensa.ae/glasses/crulle"></a></li>
+                                                            href="localhost/logoname/glasses/crulle"></a></li>
                                                     <li class="logo ray-ban"><a
-                                                            href="https://www.alensa.ae/glasses/ray-ban"></a></li>
+                                                            href="localhost/logoname/glasses/ray-ban"></a></li>
                                                     <li class="logo polaroid"><a
-                                                            href="https://www.alensa.ae/glasses/polaroid"></a></li>
+                                                            href="localhost/logoname/glasses/polaroid"></a></li>
                                                     <li class="logo oakley"><a
-                                                            href="https://www.alensa.ae/glasses/oakley"></a></li>
+                                                            href="localhost/logoname/glasses/oakley"></a></li>
                                                     <li class="logo adidas"><a
-                                                            href="https://www.alensa.ae/glasses/adidas"></a></li>
+                                                            href="localhost/logoname/glasses/adidas"></a></li>
                                                     <li class="logo gucci"><a
-                                                            href="https://www.alensa.ae/glasses/gucci"></a></li>
+                                                            href="localhost/logoname/glasses/gucci"></a></li>
                                                     <li class="logo nike-10"><a
-                                                            href="https://www.alensa.ae/glasses/nike"></a></li>
+                                                            href="localhost/logoname/glasses/nike"></a></li>
                                                     <li class="logo lauren"><a
-                                                            href="https://www.alensa.ae/glasses/polo-ralph-lauren"></a>
+                                                            href="localhost/logoname/glasses/polo-ralph-lauren"></a>
                                                     </li>
                                                     <li class="logo next"><a
-                                                            href="https://www.alensa.ae/sunglasses.html">other
+                                                            href="localhost/logoname/sunglasses.html">other
                                                         brands</a></li>
                                                 </ul>
                                             </div>
@@ -1587,24 +1587,24 @@ glasses</span>
                                     </div>
                                 </li> <!-- GLASSES --> <!-- SUNGLASSES -->
                                 <li class="main-menu-item"><a
-                                        href="https://www.alensa.ae/sunglasses.html">Sunglasses</a>
+                                        href="localhost/logoname/sunglasses.html">Sunglasses</a>
                                     <div class="sub-menu sub-menu--glasses">
                                         <div class="left-side">
-                                            <div class="left-side-boxes"><a href="https://www.alensa.ae/sunglasses/man">
+                                            <div class="left-side-boxes"><a href="localhost/logoname/sunglasses/man">
                                                 <div class="cat-box first">
                                                     <h4 class="sun-menu-headline sun-menu-green">for him</h4>
                                                     <h3 class="sun-menu-headline">Sunglasses</h3></div>
-                                            </a> <a href="https://www.alensa.ae/sunglasses/woman">
+                                            </a> <a href="localhost/logoname/sunglasses/woman">
                                                 <div class="cat-box second"><h4 class="sun-menu-headline sun-menu-red">
                                                     for her</h4>
                                                     <h3 class="sun-menu-headline">Sunglasses</h3></div>
                                             </a></div>
                                             <div class="right-side-boxes"><a
-                                                    href="https://www.alensa.ae/sunglasses-clearance.html">
+                                                    href="localhost/logoname/sunglasses-clearance.html">
                                                 <div class="cat-box third"><h3 class="sun-menu-headline">Clearance</h3>
                                                 </div>
                                             </a>
-                                                <a href="https://www.alensa.ae/sports-glasses.html">
+                                                <a href="localhost/logoname/sports-glasses.html">
                                                     <div class="cat-box four"><h3 class="sun-menu-headline">Sport
                                                         glasses</h3></div>
                                                 </a></div>
@@ -1614,80 +1614,80 @@ glasses</span>
 sunglasses</span>
                                                 <ul>
                                                     <li class="sport-type muscle"><a
-                                                            href="https://www.alensa.ae/street-fashion-sunglasses.html">Street
+                                                            href="localhost/logoname/street-fashion-sunglasses.html">Street
                                                         fashion</a></li>
                                                     <li class="sport-type sunglasses-design"><a
-                                                            href="https://www.alensa.ae/designer-sunglasses.html">Designer
+                                                            href="localhost/logoname/designer-sunglasses.html">Designer
                                                         sunglasses</a></li>
                                                     <li class="sport-type street-fashion"><a
-                                                            href="https://www.alensa.ae/luxury-sunglasses.html">Luxury
+                                                            href="localhost/logoname/luxury-sunglasses.html">Luxury
                                                         brands</a></li>
                                                     <li class="sport-type drivining"><a
-                                                            href="https://www.alensa.ae/driving-glasses.html">Driving</a>
+                                                            href="localhost/logoname/driving-glasses.html">Driving</a>
                                                     </li>
                                                     <li class="sport-type run"><a
-                                                            href="https://www.alensa.ae/sports-glasses.html">Sport
+                                                            href="localhost/logoname/sports-glasses.html">Sport
                                                         sunglasses</a></li>
                                                     <li class="sport-type ski"><a
-                                                            href="https://www.alensa.ae/ski-and-snowboard-glasses.html">Ski</a>
+                                                            href="localhost/logoname/ski-and-snowboard-glasses.html">Ski</a>
                                                     </li>
                                                     <li class="sport-type outlet"><a
-                                                            href="https://www.alensa.ae/sunglasses-clearance.html">Clearance</a>
+                                                            href="localhost/logoname/sunglasses-clearance.html">Clearance</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div class="right-collums"><span class="title">Shape</span>
                                                 <ul>
                                                     <li class="shape square"><a
-                                                            href="https://www.alensa.ae/sunglasses/gs-square">Square</a>
+                                                            href="localhost/logoname/sunglasses/gs-square">Square</a>
                                                     </li>
                                                     <li class="shape rectangular"><a
-                                                            href="https://www.alensa.ae/sunglasses/rectangular">Rectangular</a>
+                                                            href="localhost/logoname/sunglasses/rectangular">Rectangular</a>
                                                     </li>
                                                     <li class="shape pilot"><a
-                                                            href="https://www.alensa.ae/sunglasses/pilot">Pilot</a></li>
+                                                            href="localhost/logoname/sunglasses/pilot">Pilot</a></li>
                                                     <li class="shape round"><a
-                                                            href="https://www.alensa.ae/sunglasses/gs-round">Round</a>
+                                                            href="localhost/logoname/sunglasses/gs-round">Round</a>
                                                     </li>
                                                     <li class="shape panthos"><a
-                                                            href="https://www.alensa.ae/sunglasses/panthos-tea-cup">Panthos</a>
+                                                            href="localhost/logoname/sunglasses/panthos-tea-cup">Panthos</a>
                                                     </li>
                                                     <li class="shape oval"><a
-                                                            href="https://www.alensa.ae/sunglasses/oval-elipse">Oval /
+                                                            href="localhost/logoname/sunglasses/oval-elipse">Oval /
                                                         Ellipse</a></li>
                                                     <li class="shape cateye"><a
-                                                            href="https://www.alensa.ae/sunglasses/cat-eye">Cat eye</a>
+                                                            href="localhost/logoname/sunglasses/cat-eye">Cat eye</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                             <div class="right-collums"><span class="title">Manufacturer</span>
                                                 <ul class="logos-sunglass-ul">
                                                     <li class="logo crulle"><a
-                                                            href="https://www.alensa.ae/sunglasses/crulle"></a></li>
+                                                            href="localhost/logoname/sunglasses/crulle"></a></li>
                                                     <li class="logo ray-ban"><a
-                                                            href="https://www.alensa.ae/sunglasses/ray-ban"></a></li>
+                                                            href="localhost/logoname/sunglasses/ray-ban"></a></li>
                                                     <li class="logo polaroid"><a
-                                                            href="https://www.alensa.ae/sunglasses/polaroid"></a></li>
+                                                            href="localhost/logoname/sunglasses/polaroid"></a></li>
                                                     <li class="logo oakley"><a
-                                                            href="https://www.alensa.ae/sunglasses/oakley"></a></li>
+                                                            href="localhost/logoname/sunglasses/oakley"></a></li>
                                                     <li class="logo adidas"><a
-                                                            href="https://www.alensa.ae/sunglasses/adidas"></a></li>
+                                                            href="localhost/logoname/sunglasses/adidas"></a></li>
                                                     <li class="logo gucci"><a
-                                                            href="https://www.alensa.ae/sunglasses/gucci"></a></li>
+                                                            href="localhost/logoname/sunglasses/gucci"></a></li>
                                                     <li class="logo nike-10"><a
-                                                            href="https://www.alensa.ae/sunglasses/nike"></a></li>
+                                                            href="localhost/logoname/sunglasses/nike"></a></li>
                                                     <li class="logo lauren"><a
-                                                            href="https://www.alensa.ae/sunglasses/polo-ralph-lauren"></a>
+                                                            href="localhost/logoname/sunglasses/polo-ralph-lauren"></a>
                                                     </li>
                                                     <li class="logo next"><a
-                                                            href="https://www.alensa.ae/sunglasses.html">other
+                                                            href="localhost/logoname/sunglasses.html">other
                                                         brands</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </li> <!-- SUNGLASSES --><!-- INFOPORTAL -->
-                                <li class="main-menu-item"><a href="https://www.alensa.ae/information">Help &amp;
+                                <li class="main-menu-item"><a href="localhost/logoname/information">Help &amp;
                                     information</a>
                                     <div class="sub-menu sub-menu--infoportal-triple">
                                         <div class="box-content"><h3>Find out more about contact lenses</h3>
@@ -1695,26 +1695,26 @@ sunglasses</span>
                                             <div class="box-links">
                                                 <ul>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/starting-with-contact-lenses.html">Starting
+                                                        <a href="localhost/logoname/information/starting-with-contact-lenses.html">Starting
                                                             with Lenses</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/contact-lens-care.html">Lens
+                                                        <a href="localhost/logoname/information/contact-lens-care.html">Lens
                                                             Care Basics
                                                             - solutions &amp; cases</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/lenses-prescription-guide.html">How
+                                                        <a href="localhost/logoname/information/lenses-prescription-guide.html">How
                                                             do I
                                                             read my prescription?</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/do-not-wear-lenses-longer-than-recommended.html">Can
+                                                        <a href="localhost/logoname/information/do-not-wear-lenses-longer-than-recommended.html">Can
                                                             I wear lenses longer than prescribed?</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/contact-lenses-hygiene-tips.html">Tips
+                                                        <a href="localhost/logoname/information/contact-lenses-hygiene-tips.html">Tips
                                                             for better lens hygiene</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/frequently-asked-questions.html">Frequently
+                                                        <a href="localhost/logoname/information/frequently-asked-questions.html">Frequently
                                                             asked questions about lenses</a></li>
-                                                    <li><a href="https://www.alensa.ae/information">Discover more
+                                                    <li><a href="localhost/logoname/information">Discover more
                                                         articles about
                                                         lenses</a></li>
                                                 </ul>
@@ -1726,24 +1726,24 @@ sunglasses</span>
                                             <div class="box-links">
                                                 <ul>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/ordering-glasses-with-us.html">The
+                                                        <a href="localhost/logoname/information/ordering-glasses-with-us.html">The
                                                             benefits of ordering glasses online</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/eyeglass-lens-treatments.html">Learn
+                                                        <a href="localhost/logoname/information/eyeglass-lens-treatments.html">Learn
                                                             about our eyeglass lens treatments</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/eyeglasses-options-for-dealing-with-the-sun.html">Eyeglasses
+                                                        <a href="localhost/logoname/information/eyeglasses-options-for-dealing-with-the-sun.html">Eyeglasses
                                                             options for dealing with the sun</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/what-are-polarised-sunglasses.html">Learn
+                                                        <a href="localhost/logoname/information/what-are-polarised-sunglasses.html">Learn
                                                             more about polarised sunglasses</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/learn-about-blue-light-blocking-glasses.html">Learn
+                                                        <a href="localhost/logoname/information/learn-about-blue-light-blocking-glasses.html">Learn
                                                             about blue light blocking glasses</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/faq-about-glasses-and-sunglasses.html">Frequently
+                                                        <a href="localhost/logoname/information/faq-about-glasses-and-sunglasses.html">Frequently
                                                             asked questions about glasses</a></li>
-                                                    <li><a href="https://www.alensa.ae/information">Discover more
+                                                    <li><a href="localhost/logoname/information">Discover more
                                                         articles about
                                                         glasses</a></li>
                                                 </ul>
@@ -1754,29 +1754,29 @@ sunglasses</span>
                                             <div class="box-bg alensa"></div>
                                             <div class="box-links">
                                                 <ul>
-                                                    <li><a href="https://www.alensa.ae/information/newsletter.html">Latest
+                                                    <li><a href="localhost/logoname/information/newsletter.html">Latest
                                                         news and
                                                         discounts</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/delivery-costs-and-times.html">What
+                                                        <a href="localhost/logoname/information/delivery-costs-and-times.html">What
                                                             are
                                                             our delivery costs and options?</a></li>
-                                                    <li><a href="https://www.alensa.ae/information/return-policy.html">What
+                                                    <li><a href="localhost/logoname/information/return-policy.html">What
                                                         is our return
                                                         policy?</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/money-back-guarantee.html">Where
+                                                        <a href="localhost/logoname/information/money-back-guarantee.html">Where
                                                             can we
                                                             offer a Money-back Guarantee?</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/payment-methods.html">How
+                                                        <a href="localhost/logoname/information/payment-methods.html">How
                                                             can you pay
                                                             for your order?</a></li>
                                                     <li>
-                                                        <a href="https://www.alensa.ae/information/faq-about-orders.html">More
+                                                        <a href="localhost/logoname/information/faq-about-orders.html">More
                                                             frequent
                                                             questions about your order</a></li>
-                                                    <li><a href="https://www.alensa.ae/information">Learn more about how
+                                                    <li><a href="localhost/logoname/information">Learn more about how
                                                         we
                                                         operate</a></li>
                                                 </ul>
@@ -1822,7 +1822,7 @@ sunglasses</span>
 
                                 <a class="customer-login-link customer-link show-modal-login">Log in</a>
 
-                                <a href="https://www.alensa.ae/customer/register/?backlink=220a"
+                                <a href="localhost/logoname/customer/register/?backlink=220a"
                                    class="customer-register-link customer-link">Registration</a>
                             </div>
                         </div>
@@ -1834,7 +1834,7 @@ sunglasses</span>
                 <div class="header-repeat-area">
                     <div id="snippet--repeatLastOrder">
                         <div class="repeat-last-order-wrapper repeat-last-order-in-header ">
-                            <a href="https://www.alensa.ae/customer/repeat-order/"
+                            <a href="localhost/logoname/customer/repeat-order/"
                                class="repeat-last-order datalayer-repeat-last-order-button">
                                 Repeat your last order
                             </a>
@@ -1849,7 +1849,7 @@ sunglasses</span>
 
 
                             <div class="go-to-basket-wrapper">
-                                <a href="https://www.alensa.ae/shopping/basket/" class="go-to-basket-price active ">
+                                <a href="localhost/logoname/shopping/basket/" class="go-to-basket-price active ">
                                     <i class="go-to-basket-icon go-to-basket-icon-gray"></i>
                                     AED 0
                                 </a>
@@ -1859,7 +1859,7 @@ sunglasses</span>
                                     <p class="mini-basket-no-items">Your basket is currently empty</p>
 
                                     <a class="btn btn-minor btn-auto-width btn-tercialy go-to-basket-btn"
-                                       href="https://www.alensa.ae/shopping/basket/">
+                                       href="localhost/logoname/shopping/basket/">
                                         Go to your basket
                                     </a>
 
@@ -1910,19 +1910,19 @@ sunglasses</span>
                                 <div class="row categories-navigation">
                                     <div class="categories-navigation-item"><span
                                             class="categories-navigation-item-header">Contact lenses</span> <a
-                                            href="https://www.alensa.ae/contact-lenses.html"><img
+                                            href="localhost/logoname/contact-lenses.html"><img
                                             src="./public/uploads/new/lenses.svg" alt="Contact lenses"></a></div>
                                     <div class="categories-navigation-item">
                                         <span class="categories-navigation-item-header">Glasses and frames</span> <a
-                                            href="https://www.alensa.ae/frames.html"><img
+                                            href="localhost/logoname/frames.html"><img
                                             src="./public/uploads/new/frames.svg" alt="Frames"></a></div>
                                     <div class="categories-navigation-item"><span
                                             class="categories-navigation-item-header">Solutions</span> <a
-                                            href="https://www.alensa.ae/solutions.html"><img
+                                            href="localhost/logoname/solutions.html"><img
                                             src="./public/uploads/new/solutions.svg" alt="Solutions"></a></div>
                                     <div class="categories-navigation-item"><span
                                             class="categories-navigation-item-header">Sunglasses</span> <a
-                                            href="https://www.alensa.ae/sunglasses.html"><img
+                                            href="localhost/logoname/sunglasses.html"><img
                                             src="./public/uploads/new/glasses.svg" alt="Sunglasses"></a></div>
                                 </div>
                             </div>
@@ -1933,19 +1933,19 @@ sunglasses</span>
                                 <div class="menu-wrapper__section menu-wrapper__section--type"><h4
                                         class="menu-wrapper__section__header">Contact lens types</h4>
                                     <ul>
-                                        <li class="daily"><a href="https://www.alensa.ae/daily-contact-lenses.html">Daily
+                                        <li class="daily"><a href="localhost/logoname/daily-contact-lenses.html">Daily
                                             lenses</a></li>
                                         <li class="biweekly"><a
-                                                href="https://www.alensa.ae/bi-weekly-contact-lenses.html">Bi-weekly
+                                                href="localhost/logoname/bi-weekly-contact-lenses.html">Bi-weekly
                                             lenses</a></li>
-                                        <li class="monthly"><a href="https://www.alensa.ae/monthly-contact-lenses.html">Monthly
+                                        <li class="monthly"><a href="localhost/logoname/monthly-contact-lenses.html">Monthly
                                             lenses</a></li>
-                                        <li class="toric"><a href="https://www.alensa.ae/toric-contact-lenses.html">Toric
+                                        <li class="toric"><a href="localhost/logoname/toric-contact-lenses.html">Toric
                                             lenses</a></li>
                                         <li class="multifocal"><a
-                                                href="https://www.alensa.ae/multifocal-contact-lenses.html">Multifocal
+                                                href="localhost/logoname/multifocal-contact-lenses.html">Multifocal
                                             lenses</a></li>
-                                        <li class="color"><a href="https://www.alensa.ae/colour-contact-lenses.html">Coloured
+                                        <li class="color"><a href="localhost/logoname/colour-contact-lenses.html">Coloured
                                             lenses</a></li>
                                     </ul>
                                 </div>
@@ -1978,7 +1978,7 @@ sunglasses</span>
                                                                                                    name="save"
                                                                                                    id="frm-2082699594-doi1441225380Form-save"
                                                                                                    value="Subscribe"> <a
-                                                href="https://www.alensa.ae/information/newsletter.html"
+                                                href="localhost/logoname/information/newsletter.html"
                                                 class="btn btn-minor btn-blue">Subscribe</a>
                                             <input type="submit" class="button ajax double-optin-decline" name="cancel"
                                                    id="frm-2082699594-doi1441225380Form-cancel" value="No thank you, I don't want to save money.
@@ -2062,10 +2062,10 @@ sunglasses</span>
                                     <div>
                                         <div class="item" style="width: 100%; display: inline-block;">
 
-                                            <a href="https://www.alensa.ae/eyeglasses-clearance.html" class=""
+                                            <a href="localhost/logoname/eyeglasses-clearance.html" class=""
                                                tabindex="-1">
                                                 <picture>
-                                                    <source srcset="https://www.alensa.ae/globalfiles/banners/alensa-ae/outlet-2021-woman-hp-frame-ae.webp"
+                                                    <source srcset="localhost/logoname/globalfiles/banners/alensa-ae/outlet-2021-woman-hp-frame-ae.webp"
                                                             type="image/webp">
                                                     <img src="./public/uploads/new/outlet-2021-woman-hp-frame-ae.jpg"
                                                          alt="Eyeglasses Outlet" loading="lazy">
@@ -2091,9 +2091,9 @@ sunglasses</span>
                                     <div>
                                         <div class="item" style="width: 100%; display: inline-block;">
 
-                                            <a href="https://www.alensa.ae/sunglasses.html" class="" tabindex="0">
+                                            <a href="localhost/logoname/sunglasses.html" class="" tabindex="0">
                                                 <picture>
-                                                    <source srcset="https://www.alensa.ae/globalfiles/banners/alensa-ae/210603-sunglasses-season-uk.webp"
+                                                    <source srcset="localhost/logoname/globalfiles/banners/alensa-ae/210603-sunglasses-season-uk.webp"
                                                             type="image/webp">
                                                     <img src="./public/uploads/new/210603-sunglasses-season-uk.jpg"
                                                          alt="" loading="lazy">
@@ -2117,10 +2117,10 @@ sunglasses</span>
                                     <div>
                                         <div class="item" style="width: 100%; display: inline-block;">
 
-                                            <a href="https://www.alensa.ae/eyeglasses-clearance.html" class=""
+                                            <a href="localhost/logoname/eyeglasses-clearance.html" class=""
                                                tabindex="-1">
                                                 <picture>
-                                                    <source srcset="https://www.alensa.ae/globalfiles/banners/alensa-ae/outlet-2021-woman-hp-frame-ae.webp"
+                                                    <source srcset="localhost/logoname/globalfiles/banners/alensa-ae/outlet-2021-woman-hp-frame-ae.webp"
                                                             type="image/webp">
                                                     <img src="./public/uploads/new/outlet-2021-woman-hp-frame-ae.jpg"
                                                          alt="Eyeglasses Outlet" loading="lazy">
@@ -2145,9 +2145,9 @@ sunglasses</span>
                                     <div>
                                         <div class="item" style="width: 100%; display: inline-block;">
 
-                                            <a href="https://www.alensa.ae/sunglasses.html" class="" tabindex="-1">
+                                            <a href="localhost/logoname/sunglasses.html" class="" tabindex="-1">
                                                 <picture>
-                                                    <source srcset="https://www.alensa.ae/globalfiles/banners/alensa-ae/210603-sunglasses-season-uk.webp"
+                                                    <source srcset="localhost/logoname/globalfiles/banners/alensa-ae/210603-sunglasses-season-uk.webp"
                                                             type="image/webp">
                                                     <img src="./public/uploads/new/210603-sunglasses-season-uk.jpg"
                                                          alt="" loading="lazy">
@@ -2170,10 +2170,10 @@ sunglasses</span>
                                     <div>
                                         <div class="item" style="width: 100%; display: inline-block;">
 
-                                            <a href="https://www.alensa.ae/eyeglasses-clearance.html" class=""
+                                            <a href="localhost/logoname/eyeglasses-clearance.html" class=""
                                                tabindex="-1">
                                                 <picture>
-                                                    <source srcset="https://www.alensa.ae/globalfiles/banners/alensa-ae/outlet-2021-woman-hp-frame-ae.webp"
+                                                    <source srcset="localhost/logoname/globalfiles/banners/alensa-ae/outlet-2021-woman-hp-frame-ae.webp"
                                                             type="image/webp">
                                                     <img src="./public/uploads/new/outlet-2021-woman-hp-frame-ae.jpg"
                                                          alt="Eyeglasses Outlet" loading="lazy">
@@ -2226,17 +2226,17 @@ sunglasses</span>
                             </div>
                             <div class="row categories-navigation">
                                 {{-- <div class="categories-navigation-item"><span class="categories-navigation-item-header">Contact lenses</span>
-                                    <a href="https://www.alensa.ae/contact-lenses.html"><img
+                                    <a href="localhost/logoname/contact-lenses.html"><img
                                             src="./public/uploads/new/lenses.svg" alt="Contact lenses"></a></div> --}}
                                 {{-- <div class="categories-navigation-item">
                                     <span class="categories-navigation-item-header">Glasses and frames</span> <a
-                                        href="https://www.alensa.ae/frames.html"><img
+                                        href="localhost/logoname/frames.html"><img
                                         src="./public/uploads/new/frames.svg" alt="Frames"></a></div> --}}
                                 {{-- <div class="categories-navigation-item"><span class="categories-navigation-item-header">Solutions</span>
-                                    <a href="https://www.alensa.ae/solutions.html"><img
+                                    <a href="localhost/logoname/solutions.html"><img
                                             src="./public/uploads/new/solutions.svg" alt="Solutions"></a></div> --}}
                                 {{-- <div class="categories-navigation-item"><span class="categories-navigation-item-header">Sunglasses</span>
-                                    <a href="https://www.alensa.ae/sunglasses.html"><img
+                                    <a href="localhost/logoname/sunglasses.html"><img
                                             src="./public/uploads/new/glasses.svg" alt="Sunglasses"></a></div> --}}
                                 @foreach (\App\Category::where('featured', '1')->limit(3)->get() as $key => $category)
                                     <div class="categories-navigation-item">
@@ -2308,79 +2308,79 @@ sunglasses</span>
             <div class="footer-column">
                 <h4>Shop Lenses and Glasses</h4>
                 <ul>
-                    <li><a href="https://www.alensa.ae/contact-lenses.html">Contact Lenses Online</a></li>
-                    <li><a href="https://www.alensa.ae/daily-contact-lenses.html">Daily Contact
+                    <li><a href="localhost/logoname/contact-lenses.html">Contact Lenses Online</a></li>
+                    <li><a href="localhost/logoname/daily-contact-lenses.html">Daily Contact
                         Lenses</a></li>
-                    <li><a href="https://www.alensa.ae/bi-weekly-contact-lenses.html">Weekly Contact
+                    <li><a href="localhost/logoname/bi-weekly-contact-lenses.html">Weekly Contact
                         Lenses</a></li>
-                    <li><a href="https://www.alensa.ae/monthly-contact-lenses.html">Monthly Contact
+                    <li><a href="localhost/logoname/monthly-contact-lenses.html">Monthly Contact
                         Lenses</a></li>
-                    <li><a href="https://www.alensa.ae/toric-contact-lenses.html">Toric Contact
+                    <li><a href="localhost/logoname/toric-contact-lenses.html">Toric Contact
                         Lenses</a></li>
-                    <li><a href="https://www.alensa.ae/multifocal-contact-lenses.html">Multifocal Contact
+                    <li><a href="localhost/logoname/multifocal-contact-lenses.html">Multifocal Contact
                         Lenses</a></li>
-                    <li><a href="https://www.alensa.ae/colour-contact-lenses.html">Coloured Contact
+                    <li><a href="localhost/logoname/colour-contact-lenses.html">Coloured Contact
                         Lenses</a></li>
-                    <li><a href="https://www.alensa.ae/solutions-and-eye-care.html">Solutions &amp; Eye
+                    <li><a href="localhost/logoname/solutions-and-eye-care.html">Solutions &amp; Eye
                         Care</a></li>
-                    <li><a href="https://www.alensa.ae/frames.html">Glasses</a></li>
-                    <li><a href="https://www.alensa.ae/sunglasses.html">Sunglasses</a></li>
+                    <li><a href="localhost/logoname/frames.html">Glasses</a></li>
+                    <li><a href="localhost/logoname/sunglasses.html">Sunglasses</a></li>
                 </ul>
             </div>
             <div class="footer-column">
                 <h4>Lenses and Glasses</h4>
                 <ul>
-                    <li><a href="https://www.alensa.ae/information/lenses-without-prescription.html">Contacts
+                    <li><a href="localhost/logoname/information/lenses-without-prescription.html">Contacts
                         without Prescription</a></li>
-                    <li><a href="https://www.alensa.ae/information/starting-with-contact-lenses.html">Starting
+                    <li><a href="localhost/logoname/information/starting-with-contact-lenses.html">Starting
                         with Lenses</a></li>
-                    <li><a href="https://www.alensa.ae/information/contact-lens-care.html">Contact Lens
+                    <li><a href="localhost/logoname/information/contact-lens-care.html">Contact Lens
                         Care</a></li>
-                    <li><a href="https://www.alensa.ae/information/inserting-contact-lenses.html">Inserting
+                    <li><a href="localhost/logoname/information/inserting-contact-lenses.html">Inserting
                         Contact Lenses</a></li>
-                    <li><a href="https://www.alensa.ae/information/quality-glasses-online.html">Our service
+                    <li><a href="localhost/logoname/information/quality-glasses-online.html">Our service
                         for Glasses &amp; Sunglasses</a></li>
-                    <li><a href="https://www.alensa.ae/information/lenses-prescription-guide.html">Prescription
+                    <li><a href="localhost/logoname/information/lenses-prescription-guide.html">Prescription
                         Guide</a></li>
-                    <li><a href="https://www.alensa.ae/information/learn-about-blue-light-blocking-glasses.html">Blue
+                    <li><a href="localhost/logoname/information/learn-about-blue-light-blocking-glasses.html">Blue
                         light-blocking Filter</a></li>
-                    <li><a href="https://www.alensa.ae/information/what-are-polarised-sunglasses.html">More
+                    <li><a href="localhost/logoname/information/what-are-polarised-sunglasses.html">More
                         about Polarised Sunglasses</a></li>
-                    <li><a href="https://www.alensa.ae/information/frequently-asked-questions.html">Contact
+                    <li><a href="localhost/logoname/information/frequently-asked-questions.html">Contact
                         Lens FAQ</a></li>
-                    <li><a href="https://www.alensa.ae/information/faq-about-glasses-and-sunglasses.html">Glasses
+                    <li><a href="localhost/logoname/information/faq-about-glasses-and-sunglasses.html">Glasses
                         FAQ</a></li>
-                    <li><a href="https://www.alensa.ae/information">More
+                    <li><a href="localhost/logoname/information">More
                         articles</a></li>
                 </ul>
             </div>
             <div class="footer-column">
                 <h4>Alensa</h4>
                 <ul>
-                    <li><a href="https://www.alensa.ae/information/delivery-costs-and-times.html">Delivery
+                    <li><a href="localhost/logoname/information/delivery-costs-and-times.html">Delivery
                         Times &amp; Costs</a></li>
-                    <li><a href="https://www.alensa.ae/information/return-policy.html">Return
+                    <li><a href="localhost/logoname/information/return-policy.html">Return
                         Policy</a></li>
-                    <li><a href="https://www.alensa.ae/information/payment-methods.html">Payment
+                    <li><a href="localhost/logoname/information/payment-methods.html">Payment
                         Methods</a></li>
-                    <li><a href="https://www.alensa.ae/information/money-back-guarantee.html">Money-back
+                    <li><a href="localhost/logoname/information/money-back-guarantee.html">Money-back
                         Guarantee</a></li>
-                    <li><a href="https://www.alensa.ae/information/lowest-price-guarantee.html">Lowest-price
+                    <li><a href="localhost/logoname/information/lowest-price-guarantee.html">Lowest-price
                         Guarantee</a></li>
-                    <li><a href="https://www.alensa.ae/information/faq-about-orders.html">Order
+                    <li><a href="localhost/logoname/information/faq-about-orders.html">Order
                         FAQ</a></li>
-                    <li><a href="https://www.alensa.ae/information">More helpful
+                    <li><a href="localhost/logoname/information">More helpful
                         pages</a></li>
                 </ul>
             </div>
             <div class="footer-column">
                 <h4>More Info &amp; Contact</h4>
                 <ul>
-                    <li><a href="https://www.alensa.ae/information/contact.html">Contact Form</a></li>
-                    <li><a href="https://www.alensa.ae/information/about-us.html">About Us</a></li>
-                    <li><a href="https://www.alensa.ae/information/terms-and-conditions.html">Terms
+                    <li><a href="localhost/logoname/information/contact.html">Contact Form</a></li>
+                    <li><a href="localhost/logoname/information/about-us.html">About Us</a></li>
+                    <li><a href="localhost/logoname/information/terms-and-conditions.html">Terms
                         &amp; Conditions</a></li>
-                    <li><a href="https://www.alensa.ae/information/privacy-policy.html">Privacy
+                    <li><a href="localhost/logoname/information/privacy-policy.html">Privacy
                         Policy</a></li>
                 </ul>
                 <address><span><a href="mailto:info@alensa.ae" class="email"></a><a href="mailto:info@alensa.ae">info@
@@ -2407,7 +2407,7 @@ sunglasses</span>
                                     type="submit" onclick="return validateDoi1243662528Form(this)"
                                     class="button btn btn-minor btn-secondary double-optin-btn" name="save"
                                     id="frm-1630807522-doi1243662528Form-save" value="Subscribe"> <a
-                                    href="https://www.alensa.ae/information/newsletter.html"
+                                    href="localhost/logoname/information/newsletter.html"
                                     class="btn btn-minor btn-blue">Subscribe</a>
                                 <input type="submit" class="button ajax double-optin-decline" name="cancel"
                                        id="frm-1630807522-doi1243662528Form-cancel" value="No thank you, I don't want to save money.
@@ -2498,8 +2498,8 @@ sunglasses</span>
         </div>
 
         <div class="row footer-copyright">
-            © 2021 Alensa.ae, All rights reserved, <a href="https://www.alensa.ae/information/about-us.html">About
-            Us</a>, <a href="https://www.alensa.ae/information/terms-and-conditions.html">T&amp;C</a>
+            © 2021 Alensa.ae, All rights reserved, <a href="localhost/logoname/information/about-us.html">About
+            Us</a>, <a href="localhost/logoname/information/terms-and-conditions.html">T&amp;C</a>
         </div>
     </div>
 </div>
@@ -2631,21 +2631,21 @@ sunglasses</span>
                 <div class="modal-login-socials socials  multiple">
                     <h3 class="social-title">Or, log in using:</h3>
 
-                    <a href="https://www.alensa.ae/customer/facebook-login/?backlink=220a" class="social-button fb"
+                    <a href="localhost/logoname/customer/facebook-login/?backlink=220a" class="social-button fb"
                        title="Log in with Facebook">
                         Facebook
                     </a>
-                    <a href="https://www.alensa.ae/customer/google-login/?backlink=220a" class="social-button gp"
+                    <a href="localhost/logoname/customer/google-login/?backlink=220a" class="social-button gp"
                        title="Google login">
                         Google
                     </a>
                 </div>
 
                 <div class="modal-login-links">
-                    <a href="https://www.alensa.ae/customer/register/?backlink=220a" class="modal-login-link">
+                    <a href="localhost/logoname/customer/register/?backlink=220a" class="modal-login-link">
                         Registration
                     </a>
-                    <a href="https://www.alensa.ae/customer/forgotten-password/?backlink=220a" class="modal-login-link">
+                    <a href="localhost/logoname/customer/forgotten-password/?backlink=220a" class="modal-login-link">
                         I forgot my password
                     </a>
                 </div>
